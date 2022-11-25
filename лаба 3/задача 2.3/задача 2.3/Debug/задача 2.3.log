@@ -1,0 +1,10 @@
+﻿  function.c
+D:\лабы по оаипу норм папка\лаба 3\задача 2.3\задача 2.3\function.c(23,19): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\лабы по оаипу норм папка\лаба 3\задача 2.3\задача 2.3\function.c(37,21): warning C4013: inputColumns: нет определения; предполагается "extern" с возвратом типа "int"
+D:\лабы по оаипу норм папка\лаба 3\задача 2.3\задача 2.3\function.c(35,12): warning C4101: j: неиспользованная локальная переменная
+D:\лабы по оаипу норм папка\лаба 3\задача 2.3\задача 2.3\function.c(52,21): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\лабы по оаипу норм папка\лаба 3\задача 2.3\задача 2.3\function.c(59,18): warning C4013: pamiatMassiva: нет определения; предполагается "extern" с возвратом типа "int"
+function.obj : error LNK2019: ссылка на неразрешенный внешний символ _inputColumns в функции _inputMas2.
+function.obj : error LNK2019: ссылка на неразрешенный внешний символ _pamiatMassiva в функции _vDvumernomMassiveVipolnitCheclicheskiySdvigElementovKajdoiStrokiVlEvoNaKPosiciyPoslednieElementiPeremechaytsaVNachalo.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _vDvumernomMassiveCelixChiselYdalitVseOtritsatelnieElementiKolichestvoChiselVSrtokeMojetBitRaslichnimPosledneeChisloSto в функции _main.
+D:\лабы по оаипу норм папка\лаба 3\задача 2.3\Debug\задача 2.3.exe : fatal error LNK1120: неразрешенных внешних элементов: 3
